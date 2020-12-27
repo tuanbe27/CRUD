@@ -1,7 +1,7 @@
 # CRUD
 
 # Get the latest snapshot
-git clone https://github.com/tuanbe27/crud.git crud
+git clone https://github.com/tuanbe27/CRUD.git crud
 
 # Change directory
 cd crud
