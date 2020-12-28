@@ -9,5 +9,7 @@ cd crud
 # Install NPM dependencies
 yarn
 
+# Rename .env.example to .env
+
 # Then simply start your app
 yarn start
